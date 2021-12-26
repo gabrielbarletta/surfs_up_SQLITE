@@ -20,10 +20,9 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 * The max 83.0 
 * Standard deviation of 3.75
 
-## 3.Summary:
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  * 90,398  roles will need to be filled as a result of retiring employees. 
+- The difference between June and December standard deviation is .5
+- June temperatures averages are warmer than december temperatures. 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  * No, not enough employees are eligle to mentor the next generation. 
+## 3.Summary:
+From the data collected we can determine the temperatures. There are many factors that can affect the weather. We can definetly write more queries in order to have the neccesary data to make a decision on when and where they can build the shop. Always making decisions based on factual data. 
 
