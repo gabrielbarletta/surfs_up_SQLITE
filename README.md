@@ -11,7 +11,15 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 * The mean was 74.9
 * The min was 64.0
 * The max was 85.0
-    
+* Standard deviation of 3.25
+
+![dec_temp_summary_stats](https://user-images.githubusercontent.com/92552837/147400187-b7082400-7f16-4eaa-90ea-05c583459ced.png)
+* In December we had a total of 1517 count.
+* The mean was 71.0
+* The min was 56.0
+* The max 83.0 
+* Standard deviation of 3.75
+
 ## 3.Summary:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   * 90,398  roles will need to be filled as a result of retiring employees. 
