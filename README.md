@@ -15,7 +15,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
     * 4,502 Technique Leader
     * 1,761 Assistant Engineer
     * 2 Manager
-https://github.com/gabrielbarletta/surfs_up_SQLITE/blob/729712949399709bb79f4afee91d84426ab88b33/Images/june_temp_summary_stats.png
+Images/june_temp_summary_stats.png
 
     
 ## 3.Summary:
