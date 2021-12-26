@@ -6,17 +6,11 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## 2. Results: 
 
-* Human resources should be conserned because a high percentage of the work force is eligble to retire. 
-* The breakdown of the job titles is as followed
-    * 29,414 Senior Engineer
-    * 28254 Senior Staff
-    * 14,222 Engineer
-    * 28254 Senior Staff
-    * 4,502 Technique Leader
-    * 1,761 Assistant Engineer
-    * 2 Manager
-Images/june_temp_summary_stats.png
-
+![june_temp_summary_stats](https://user-images.githubusercontent.com/92552837/147400136-4d7641f4-693d-49de-bfdb-5f1f51513c6e.png)
+* In june we had a total of 1700 counts.
+* The mean was 74.9
+* The min was 64.0
+* The max was 85.0
     
 ## 3.Summary:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
